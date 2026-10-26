@@ -26,10 +26,10 @@ int main (){
     printf("la media e: %2f \n", avg);
 
     if(avg>=6){
-        printf("sei stato promosso \n");
+        printf("sei stato promosso bravo \n");
     }
     else {
-        printf("sei stato bocciato \n");
+        printf("sei stato bocciato coglione \n");
     }
 
     return 0;
