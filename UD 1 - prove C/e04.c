@@ -17,7 +17,7 @@ int main () {
     scanf("%f"; &lato_2);
     junk = getchar();
 
-    if(lato_1)
+    if(lato_1) 
 
 
 
